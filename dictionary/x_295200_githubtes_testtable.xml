@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="change_request" label="TestTable" max_length="40" name="x_295200_githubtes_testtable" type="collection"/>
+</database>
